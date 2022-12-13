@@ -1,0 +1,66 @@
+h1 {
+    cor : azul;
+  }
+  # total {
+    largura : 960 px ;
+    altura : automático;
+    margem : automática; /*centraliza a divisão da página*/
+  }
+  #cabecalho { _
+    largura :  960 px ;
+    altura :  100 px ;
+    cor de fundo:  rgb ( 246 ,  250 ,  250 )
+  }
+  # menu {
+    flutuar : direita;
+    margem superior :27 px ;
+  }
+
+  # menu  a {
+    cor :  rgb ( 54 ,  2 ,  4 );
+    decoração de texto : nenhum;
+    margem esquerda :  50 px ;
+  }
+
+  # menu  a : passe o mouse {
+    decoração de texto : sublinhado;
+    text-transform : letras maiúsculas;
+  }
+
+  # conteudo {
+    largura :  960 px ;
+    altura :  400 px ;
+    flutuar : esquerda;
+    cor de fundo : aqua;
+  }
+  # rodape {
+    largura :  960 px ;
+    altura : automático;
+    flutuar : esquerda;
+    cor :  rgb ( 5 ,  8 ,  144 );
+    alinhamento de texto : centro;
+    font-family : Georgia ,  'Times New Roman' , Times , serif;
+    margem superior :  30 px ;
+    borda superior : pontilhada rgb ( 8 ,  22 ,  151 ) 1 px ;
+  }
+  # conteudoquemsomos1 {
+    largura :  600 px ;
+    altura :  400 px ;
+    flutuar : esquerda;
+    cor de fundo :  rgb ( 85 ,  44 ,  152 );
+
+  }
+  # conteudoquemsomos2 {
+    largura :  360 px ;
+    altura :  200 px ;
+    flutuar : direita;
+    cor de fundo :  rgba ( 133 ,  19 ,  127 ,  0,014 );
+
+  }
+  # conteudoquemsomos3 {
+    largura :  360 px ;
+    altura :  200 px ;
+    flutuar : direita;
+    cor de fundo :  rgb ( 0 ,  200 ,  255 );
+
+  }
